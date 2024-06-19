@@ -1,4 +1,4 @@
 # CODSOFT
-summer internship "c++ programming"
+Summer Internship "C++ Programming"
 <br>
-author: BHUMIKA RAWAT
+Author: BHUMIKA RAWAT
